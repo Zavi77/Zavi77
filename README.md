@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zavi77
-- 👀 I’m interested in AI/ML,Python
-- 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on Machine Learning End to End projects.
+- 👋 Hi, Avijeet here.
+- 👀 I am an Avid learner and a AI/ML enthusiast, currently working as a Data Scientist in one of the top IT companies of our nation.
+- 🌱 I’m currently learning Reinforcement Learning. quite intriguing topic. Do check it out.
+- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning End to End projects. Hope we can connect for the same. Thanks!!
 
 
 <!---
